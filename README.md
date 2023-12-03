@@ -2,6 +2,8 @@
 
 <h2>Purpose</h2>
 <p>Transferring the database coming via MySQL to Swing JTable.</p>
+<p>3 Tier Architecture,  MVC- Model View Controller</p>
+
 
 
 <h3>UI Screen</h3>
